@@ -1,0 +1,7 @@
+contact_links:
+  - name: 📚 Documentação
+    url: https://github.com/exact-magic/docs/issues/new/choose
+    about: Este recurso não deve ser utilizado para tarefas de documentação. Por favor, abra uma issue no repositório de documentação.
+  - name: 🤔 Dúvidas
+    url: https://magicwrite.slack.com/
+    about: Este recurso não deve ser utilizado para dúvidas. Converse com nossa equipe no canal do Slack.

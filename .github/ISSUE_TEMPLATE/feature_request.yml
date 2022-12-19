@@ -1,0 +1,37 @@
+name: 💡 Feature
+description: Sugira um novo recurso para o produto
+title: "feat: "
+body:
+  - type: checkboxes
+    attributes:
+      label: Pré-requisitos
+      description: Por favor, confirme se você já realizou os passos abaixos antes de abrir esta issue.
+      options:
+        - label: Eu li o guia de boas práticas para [abrir uma issue](https://github.com/exact-magic/.github/.github/CONTRIBUTING.md#criar-uma-issue).
+          required: true
+        - label: Eu pesquisei por issues anteriores que já sugeriram esta feature, sem sucesso.
+          required: true
+  - type: textarea
+    attributes:
+      label: Descrição
+      description: Uma descrição clara e concisa da feature.
+    validations:
+      required: true
+  - type: textarea
+    attributes:
+      label: Caso de uso
+      description: Um caso de uso ou exemplo claro de problema que esta feature resolve.
+    validations:
+      required: true
+  - type: textarea
+    attributes:
+      label: Solução preferida
+      description: Descreva a solução que você enxerga como ideal para este problema.
+  - type: textarea
+    attributes:
+      label: Soluções alternativas
+      description: Liste soluções alternativas que você pensou caso não seja possível implementar a solução ideal.
+  - type: textarea
+    attributes:
+      label: Informações adicionais
+      description: Liste outras informações relevantes. Stack traces, issues relacionadas, sugestões de como corrigir, links de referência, etc.
