@@ -1,4 +1,4 @@
-<!-- Por favor, consulte o nosso guia caso tenha alguma dúvida ao submeter o pull request: https://github.com/exact-magic/.github/.github/CONTRIBUTING.md -->
+<!-- Por favor, consulte o nosso guia caso tenha alguma dúvida ao submeter o pull request: https://github.com/exact-magic/.github/blob/main/.github/CONTRIBUTING.md -->
 
 ## Pull request checklist
 

@@ -9,7 +9,7 @@ labels: tracking issue, needs triage
 
 Confirme se a sua issue atende os requisitos abaixo:
 
-- [ ] Eu li o guia de boas práticas para [abrir uma issue](https://github.com/exact-magic/.github/.github/CONTRIBUTING.md#criar-uma-issue)
+- [ ] Eu li o guia de boas práticas para [abrir uma issue](https://github.com/exact-magic/.github/blob/main/.github/CONTRIBUTING.md#criar-uma-issue)
 - [ ] Eu pesquisei por issues anteriores que já sugeriram esta feature, sem sucesso
 
 ## Qual o comportamento atual?
