@@ -2,7 +2,7 @@
 
 ## Pull request checklist
 
-Conforme se o seu PR atende os requisitos abaixo:
+Confirme se o seu PR atende os requisitos abaixo:
 
 - [ ] Este PR tem uma issue de origem
 - [ ] Testes para as alterações foram adicionados
