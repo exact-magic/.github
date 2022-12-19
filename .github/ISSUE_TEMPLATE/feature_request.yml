@@ -4,7 +4,7 @@ title: "feat: "
 body:
   - type: checkboxes
     attributes:
-      label: Pré-requisitos
+      label: "Pré-requisitos"
       description: Por favor, confirme se você já realizou os passos abaixos antes de abrir esta issue.
       options:
         - label: Eu li o guia de boas práticas para [abrir uma issue](https://github.com/exact-magic/.github/.github/CONTRIBUTING.md#criar-uma-issue).
