@@ -17,15 +17,15 @@ Confirme se o seu PR atende os requisitos abaixo:
 
 <!-- Limite o pull request a um único tipo. Envie múltiplos pull requests se necessário. -->
 
-Please check the type of change your PR introduces:
+Selecione o tipo de alteração introduzida pelo PR:
 
 - [ ] Fix
 - [ ] Feature
-- [ ] Code style
+- [ ] Style
 - [ ] Refactoring (sem alterações funcionais ou de API)
 - [ ] Build/CI
 - [ ] Documentação
-- [ ] Outro (please describe):
+- [ ] Outro (descreva):
 
 ## Qual o comportamento atual?
 
@@ -33,7 +33,7 @@ Please check the type of change your PR introduces:
 
 <!-- Issue relacionada -->
 
-Issue URL:
+URL da issue:
 
 ## Qual é o novo comportamento?
 
