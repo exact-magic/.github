@@ -17,15 +17,16 @@ Confirme se o seu PR atende os requisitos abaixo:
 
 <!-- Limite o pull request a um único tipo. Envie múltiplos pull requests se necessário. -->
 
-Selecione o tipo de alteração introduzida pelo PR:
+<!--
+Fix
+Feature
+Style
+Refactoring (sem alterações funcionais ou de API)
+Build/CI
+Documentação
+Outro (descreva):
+-->
 
-- [ ] Fix
-- [ ] Feature
-- [ ] Style
-- [ ] Refactoring (sem alterações funcionais ou de API)
-- [ ] Build/CI
-- [ ] Documentação
-- [ ] Outro (descreva):
 
 ## Qual o comportamento atual?
 
@@ -45,8 +46,7 @@ URL da issue:
 
 ## Este PR introduz alguma breaking change (API ou banco de dados)?
 
-- [ ] Sim
-- [ ] Não
+<!-- Sim ou Não -->
 
 <!-- Se sim, descreva o impacto e os passos para migração. -->
 
